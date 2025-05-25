@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+joblib
+scikit-learn
+nltk
+sentence-transformers
+torch
+tensorflow
+pickle
+Flask
+regex
